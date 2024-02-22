@@ -1,0 +1,127 @@
+[
+  {
+    "image": "https://t3.ftcdn.net/jpg/02/60/04/08/360_F_260040863_fYxB1SnrzgJ9AOkcT0hoe7IEFtsPiHAD.jpg",
+    "name": "Dr. Smith",
+    "desc": "Pediatric Dental Specialist"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1303-29791.jpg",
+    "name": "Dr. Anderson",
+    "desc": "Orthodontist"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+    "name": "Dr. Patel",
+    "desc": "Dental Care Expert"
+  },
+  {
+    "image": "https://t4.ftcdn.net/jpg/02/70/93/95/360_F_270939503_maJebkk8RKQzfQVB75WMwWGIHtIgxmvZ.jpg",
+    "name": "Dr. Lee",
+    "desc": "Orthodontic Specialist"
+  },
+  {
+    "image": "https://t3.ftcdn.net/jpg/02/60/04/08/360_F_260040863_fYxB1SnrzgJ9AOkcT0hoe7IEFtsPiHAD.jpg",
+    "name": "Dr. Johnson",
+    "desc": "Pediatric Dental Expert"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1303-29791.jpg",
+    "name": "Dr. Martinez",
+    "desc": "Braces Specialist"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+    "name": "Dr. Brown",
+    "desc": "Teeth Alignment Expert"
+  },
+  {
+    "image": "https://t4.ftcdn.net/jpg/02/70/93/95/360_F_270939503_maJebkk8RKQzfQVB75WMwWGIHtIgxmvZ.jpg",
+    "name": "Dr. Taylor",
+    "desc": "Dental Health Specialist"
+  },
+  {
+    "image": "https://t3.ftcdn.net/jpg/02/60/04/08/360_F_260040863_fYxB1SnrzgJ9AOkcT0hoe7IEFtsPiHAD.jpg",
+    "name": "Dr. Garcia",
+    "desc": "Child Dental Expert"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1303-29791.jpg",
+    "name": "Dr. Clark",
+    "desc": "Smile Specialist"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+    "name": "Dr. White",
+    "desc": "Orthodontic Care Expert"
+  },
+  {
+    "image": "https://t4.ftcdn.net/jpg/02/70/93/95/360_F_270939503_maJebkk8RKQzfQVB75WMwWGIHtIgxmvZ.jpg",
+    "name": "Dr. Rodriguez",
+    "desc": "Dental Alignment Specialist"
+  },
+  {
+    "image": "https://t3.ftcdn.net/jpg/02/60/04/08/360_F_260040863_fYxB1SnrzgJ9AOkcT0hoe7IEFtsPiHAD.jpg",
+    "name": "Dr. Smith",
+    "desc": "Pediatric Dental Specialist"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1303-29791.jpg",
+    "name": "Dr. Anderson",
+    "desc": "Orthodontist"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+    "name": "Dr. Patel",
+    "desc": "Dental Care Expert"
+  },
+  {
+    "image": "https://t4.ftcdn.net/jpg/02/70/93/95/360_F_270939503_maJebkk8RKQzfQVB75WMwWGIHtIgxmvZ.jpg",
+    "name": "Dr. Lee",
+    "desc": "Orthodontic Specialist"
+  },
+  {
+    "image": "https://t3.ftcdn.net/jpg/02/60/04/08/360_F_260040863_fYxB1SnrzgJ9AOkcT0hoe7IEFtsPiHAD.jpg",
+    "name": "Dr. Johnson",
+    "desc": "Pediatric Dental Expert"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1303-29791.jpg",
+    "name": "Dr. Martinez",
+    "desc": "Braces Specialist"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+    "name": "Dr. Brown",
+    "desc": "Teeth Alignment Expert"
+  },
+  {
+    "image": "https://t4.ftcdn.net/jpg/02/70/93/95/360_F_270939503_maJebkk8RKQzfQVB75WMwWGIHtIgxmvZ.jpg",
+    "name": "Dr. Taylor",
+    "desc": "Dental Health Specialist"
+  },
+  {
+    "image": "https://t3.ftcdn.net/jpg/02/60/04/08/360_F_260040863_fYxB1SnrzgJ9AOkcT0hoe7IEFtsPiHAD.jpg",
+    "name": "Dr. Garcia",
+    "desc": "Child Dental Expert"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1303-29791.jpg",
+    "name": "Dr. Clark",
+    "desc": "Smile Specialist"
+  },
+  {
+    "image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+    "name": "Dr. White",
+    "desc": "Orthodontic Care Expert"
+  },
+  {
+    "image": "https://t4.ftcdn.net/jpg/02/70/93/95/360_F_270939503_maJebkk8RKQzfQVB75WMwWGIHtIgxmvZ.jpg",
+    "name": "Dr. Rodriguez",
+    "desc": "Dental Alignment Specialist"
+  },
+  {
+    "image": "https://t4.ftcdn.net/jpg/02/70/93/95/360_F_270939503_maJebkk8RKQzfQVB75WMwWGIHtIgxmvZ.jpg",
+    "name": "Dr. Rodriguez",
+    "desc": "Dental Alignment Specialist"
+  }
+]
